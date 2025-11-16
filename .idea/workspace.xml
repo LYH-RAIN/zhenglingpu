@@ -4,16 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c21bb17f-b8b8-49ec-b782-a87ca1ceb88a" name="Changes" comment="" />
+    <list default="true" id="c21bb17f-b8b8-49ec-b782-a87ca1ceb88a" name="Changes" comment="adasda">
+      <change beforePath="$PROJECT_DIR$/.iflow/chapters/016.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/chapters/017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/chapters/018.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/novel_outline.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/novel_outline.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="35W2oQv4xtczZthfLqQUqcqNzo2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,11 +64,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763211708968</updated>
-      <workItem from="1763211710165" duration="12066000" />
+      <workItem from="1763211710165" duration="12432000" />
     </task>
+    <task id="LOCAL-00001" summary="adasda">
+      <created>1763260862312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763260862312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adasda" />
+    <option name="LAST_COMMIT_MESSAGE" value="adasda" />
   </component>
 </project>
