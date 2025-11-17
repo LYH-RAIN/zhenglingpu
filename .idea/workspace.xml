@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c21bb17f-b8b8-49ec-b782-a87ca1ceb88a" name="Changes" comment="adasda">
-      <change afterPath="$PROJECT_DIR$/.iflow/chapters/016.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.iflow/chapters/020.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.iflow/chapters/021.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.iflow/chapters/chapter_013_optimized.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/agents/occult-scribe.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/agents/occult-scribe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/007.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/chapters/007.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/010.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/chapters/010.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/011.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/chapters/011.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/012.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/chapters/012.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/novel_outline.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/novel_outline.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/world_building_reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/world_building_reference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/agents/dialogue-specialist.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/agents/dialogue-specialist.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/chapters/013.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/chapters/013.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/chapters/014.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/chapters/014.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/character_status.json" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/character_status.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +34,23 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "E:/zhenglingpu/.iflow",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.build",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/zhenglingpu/.iflow&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\zhenglingpu\.iflow" />
@@ -62,6 +61,21 @@
       <recent name="E:\zhenglingpu\.iflow" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="zhenglingpu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="zhenglingpu" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763211708968</updated>
       <workItem from="1763211710165" duration="32111000" />
+      <workItem from="1763388009034" duration="4735000" />
     </task>
     <task id="LOCAL-00001" summary="adasda">
       <created>1763260862312</created>
