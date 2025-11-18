@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763211708968</updated>
       <workItem from="1763211710165" duration="32111000" />
-      <workItem from="1763388009034" duration="5124000" />
+      <workItem from="1763388009034" duration="6643000" />
     </task>
     <task id="LOCAL-00001" summary="adasda">
       <created>1763260862312</created>
@@ -99,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1763393512963</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adasda">
+      <created>1763393660247</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763393660247</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adasda">
+      <created>1763426718680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763426718680</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
