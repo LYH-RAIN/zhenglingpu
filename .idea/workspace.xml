@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c21bb17f-b8b8-49ec-b782-a87ca1ceb88a" name="Changes" comment="adasda">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/zhenglingpu.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/021.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/chapters/021.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/022.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/chapters/022.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/023.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/chapters/023.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/chapter_024.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/chapters/024.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/character_settings.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/character_settings.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/story_progression.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/story_progression.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/chapters/020.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/chapters/021.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/chapters/022.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/chapters/023.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/chapters/chapter_013_optimized.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/novel_outline.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/novel_outline.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/recent_chapters_summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/recent_chapters_summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFLOW.md" beforeDir="false" afterPath="$PROJECT_DIR$/IFLOW.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,7 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="35W2oQv4xtczZthfLqQUqcqNzo2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,26 +43,26 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "mastertt",
-    "last_opened_file_path": "/Users/liuyuhang/PycharmProjects/zhenglingpu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;mastertt&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/liuyuhang/PycharmProjects/zhenglingpu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\zhenglingpu\.iflow" />

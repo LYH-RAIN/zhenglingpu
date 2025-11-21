@@ -487,7 +487,7 @@ recent_chapters_summary.md（了解最近剧情）
 
 章节开发阶段
 
-初稿创作：创建基础章节文件 chapter_XXX.md
+初稿创作：创建基础章节文件 XXX.md
 
 专项优化：
 
@@ -501,7 +501,7 @@ recent_chapters_summary.md（了解最近剧情）
 
 最终整合：将所有优化内容整合到 chapter_XXX_final.md
 
-正式发布：将最终内容复制到 chapter_XXX.md，删除临时版本文件
+正式发布：将最终内容复制到 XXX.md，删除临时版本文件
 
 质量保证
 
