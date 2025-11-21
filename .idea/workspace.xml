@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c21bb17f-b8b8-49ec-b782-a87ca1ceb88a" name="Changes" comment="adasda">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/020.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/021.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/022.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/023.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.iflow/chapters/chapter_013_optimized.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.iflow/novel_outline.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/novel_outline.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.iflow/recent_chapters_summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/recent_chapters_summary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IFLOW.md" beforeDir="false" afterPath="$PROJECT_DIR$/IFLOW.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iflow/story_progression.md" beforeDir="false" afterPath="$PROJECT_DIR$/.iflow/story_progression.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +21,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,7 +30,6 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="35W2oQv4xtczZthfLqQUqcqNzo2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -107,7 +101,7 @@
       <workItem from="1763211710165" duration="32111000" />
       <workItem from="1763388009034" duration="6643000" />
       <workItem from="1763607287406" duration="2592000" />
-      <workItem from="1763623482091" duration="4484000" />
+      <workItem from="1763623482091" duration="21424000" />
     </task>
     <task id="LOCAL-00001" summary="adasda">
       <created>1763260862312</created>
@@ -144,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763426718680</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adasda">
+      <option name="closed" value="true" />
+      <created>1763639256375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763639256375</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
